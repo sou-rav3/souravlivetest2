@@ -55,7 +55,7 @@ class MyHomePage extends StatelessWidget {
             },
             child: Text('Click Me'),
           ),
-          SizedBox(height: 20),
+          SizedBox(height: 15),
           Text(
             'Welcome to Flutter!',
             style: TextStyle(
